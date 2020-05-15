@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Unscripted Discord
+    url: "https://discord.gg/CXxnVhX"
+    about: Chat with us here.
+  - name: Unscripted Fira
+    url: "https://github.com/UnscriptedVN/fira/issues"
+    about: Report issues with the Fira API or minigame backend here.
